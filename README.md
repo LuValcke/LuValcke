@@ -8,3 +8,6 @@ Passionate about cinema 📽️, audiovisual media 📺 and technology 👩🏻�
 - 📫 How to reach me: lfvalcke@gmail.com
 - ⚡ Fun fact: I love 🏇🏻
 
+![gif-draw-tag-Favim com-7749391](https://user-images.githubusercontent.com/85771366/133860104-982b0c53-ecea-4c04-bef6-9bb266967b48.gif)
+
+All images remain property of their original owners.
