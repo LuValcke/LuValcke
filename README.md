@@ -8,4 +8,3 @@ Passionate about cinema 📽️, audiovisual media 📺 and technology 👩🏻�
 - 📫 How to reach me: lfvalcke@gmail.com
 - ⚡ Fun fact: I love 🏇🏻
 
-https://gfycat.com/impossibleuniqueafricanfisheagle
