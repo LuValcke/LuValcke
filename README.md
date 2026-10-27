@@ -1,11 +1,26 @@
-### Hi there 😄 I'm Lu Valcke, I'm from Colombia... 
+## Hi, I'm Luisa 👋
 
-I'm 32 and have a little princes 👸🏻 called Antho. Years ago my little family began to fall apart, 
-since then I had to take on the tasks 🤹‍♀️ of being the head of the house 🏡, mom 🤰🏻, father 👨🏻, daughter 👧🏻 and many more that doesn't fit in hear. 
-Since there my need to improve and create agile 🏃🏻‍♀️ processes that helps me to fulfill tasks and achieve goals ✔️ in an optimal way was born. 
-Passionate about cinema 📽️, audiovisual media 📺 and technology 👩🏻‍💻, now a front-end developer with the desire and skills necessaries to take over the world 🌎.
+Frontend Developer based in Valencia, Spain. I spent 3.5 years at Mercado Libre building e-commerce products used by millions of users, with React, TypeScript and Next.js.
 
-- ⚡ Fun fact: I love 🏇🏻
+My background from multimedia design, so I care a lot about design fidelity and accessibility (WCAG).
+
+### What I've worked on
+- Trade-In launch in Brazil, later rolled out in Mexico
+- Several JavaScript to TypeScript migrations
+- Micro-frontends and monorepos consuming REST APIs and BFFs
+- Accessible components with semantic HTML, keyboard and focus management, screen reader testing
+- Internationalisation (i18n), Core Web Vitals and SEO
+
+### Stack
+React · Next.js · TypeScript · JavaScript · Redux · SASS · Jest · React Testing Library · Git
+
+### Currently
+Building a cash-flow forecast dashboard with React, TypeScript and Vite.
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/luisa-valcke/) · lfvalcke@gmail.com
+
+Outside of code: cinema, audiovisual media and horse riding.
 
 ![gif-draw-tag-Favim com-7749391](https://user-images.githubusercontent.com/85771366/133860104-982b0c53-ecea-4c04-bef6-9bb266967b48.gif)
 
