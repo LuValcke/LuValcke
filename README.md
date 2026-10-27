@@ -2,7 +2,7 @@
 
 Frontend Developer based in Valencia, Spain. I spent 3.5 years at Mercado Libre building e-commerce products used by millions of users, with React, TypeScript and Next.js.
 
-My background from multimedia design, so I care a lot about design fidelity and accessibility (WCAG).
+I come from a multimedia design background, so I care a lot about design fidelity and accessibility (WCAG).
 
 ### What I've worked on
 - Trade-In launch in Brazil, later rolled out in Mexico
